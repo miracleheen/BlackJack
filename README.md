@@ -1,4 +1,4 @@
-##BlackJack game## :shipit::shipit::shipit:
+## ***BlackJack game*** :shipit::shipit::shipit:
 
 - Раздать игрокам и дилеру(т.е. компьеютру) две начальные карты
 - Карта дилера всегда (hidden)
